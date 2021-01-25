@@ -1,4 +1,6 @@
 # Contour Based Blood Vessel Segmentation in Retinal Fundus Images
+[![license](https://img.shields.io/github/license/DAVFoundation/captain-n3m0.svg?style=flat-square)](https://github.com/sachinmb27/Contour-Based-Blood-Vessel-Segmentation-in-Retinal-Fundus-Images/blob/main/LICENSE)
+
 This project involves segmenting blood vessels from retinal fundus images using OpenCV. This work was done as a part of an academic project.
 
 ## Abstract
